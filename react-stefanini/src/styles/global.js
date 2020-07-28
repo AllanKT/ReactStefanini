@@ -17,12 +17,6 @@ export default createGlobalStyle`
         height: 100%;
     }
 
-    /* body {
-        font: 400 14px Roboto, sans-serif;
-        background: var(--background);
-        -webkit-font-smoothing: antialiased !important;
-    } */
-
     input, button, textarea {
         font: 400 18px Roboto, sans-serif;
     }
